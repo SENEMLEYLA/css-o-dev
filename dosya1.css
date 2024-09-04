@@ -5,14 +5,27 @@ color: #FEFAE0;
 h1{
 
 
-    color: #dda15e;
+    color: #DDA15E;
 }
 
 
     .dotted-bold-divider {  color: #bc6c25; 
-        border-top: 5px dashed #bc6c25;; 
+        border-top: 5px dashed #bc6c25; }
+        h2{ 
+            color: rgba(12, 7, 0, 0.5);
+
+        }
+ #td1{
+    background-color: #703806;
  }
-h2{ color: rgba(9, 6, 1, 0.5)
-}
+ #td2{
+    background-color: #4d2503;
+ }
+ #td3{
+    background-color: rgb(57, 57, 37);
+ }
+ #td4{
+    background-color: #a95104;
+ }
 
 
