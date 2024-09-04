@@ -1,6 +1,18 @@
+
 *{ background-color: #606C38;
 color: #FEFAE0;
 }
 h1{
-    color: #DDA15E;
-   
+
+
+    color: #dda15e;
+}
+
+
+    .dotted-bold-divider {  color: #bc6c25; 
+        border-top: 5px dashed #bc6c25;; 
+ }
+h2{ color: rgba(9, 6, 1, 0.5)
+}
+
+
